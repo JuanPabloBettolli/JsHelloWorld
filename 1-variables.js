@@ -16,7 +16,7 @@
 //console.log(10)
 //console.log(numero)
 
-/* Concatena palabras
+/* Concatena palabras como 1,2 nombre y apellido
 const myFirstName = 'JUAN'
 const mySecondName = 'Pablo'
 const myLastName = 'Bettolli'
