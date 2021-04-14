@@ -18,8 +18,8 @@
 
 /* Concatena palabras como 1,2 nombre y apellido
 const myFirstName = 'JUAN'
-const mySecondName = 'Pablo'
-const myLastName = 'Bettolli'
+const mySecondName = 'PABLO'
+const myLastName = 'BETTOLLI'
 
 console.log(myFirstName, mySecondName, myLastName)*/
 
